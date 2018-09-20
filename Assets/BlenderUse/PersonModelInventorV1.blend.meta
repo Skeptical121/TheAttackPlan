@@ -1,0 +1,2728 @@
+fileFormatVersion: 2
+guid: ffaffd054fd4cfe42afc338442a47f12
+timeCreated: 1497826354
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: ChestArmor
+    100006: Finger1_1_L
+    100008: Finger1_1_R
+    100010: Finger1_2_L
+    100012: Finger1_2_R
+    100014: Finger1_3_L
+    100016: Finger1_3_R
+    100018: Finger2_1_L
+    100020: Finger2_1_R
+    100022: Finger2_2_L
+    100024: Finger2_2_R
+    100026: Finger2_3_L
+    100028: Finger2_3_R
+    100030: Finger3_1_L
+    100032: Finger3_1_R
+    100034: Finger3_2_L
+    100036: Finger3_2_R
+    100038: Finger3_3_L
+    100040: Finger3_3_R
+    100042: Finger4_1_L
+    100044: Finger4_1_R
+    100046: Finger4_2_L
+    100048: Finger4_2_R
+    100050: Finger4_3_L
+    100052: Finger4_3_R
+    100054: Foot_L
+    100056: Foot_R
+    100058: GunBone
+    100060: Head
+    100062: Heel_L
+    100064: Heel_R
+    100066: HelmetArmor
+    100068: LowerArm_L
+    100070: LowerArm_R
+    100072: LowerLeftArmArmor
+    100074: LowerLeftLegArmor
+    100076: LowerLeg_L
+    100078: LowerLeg_R
+    100080: LowerRightArmArmor
+    100082: LowerRightLegArmor
+    100084: Neck
+    100086: Pelvis
+    100088: PelvisArmor
+    100090: //RootNode
+    100092: PersonModelObject
+    100094: Stomach
+    100096: StomachArmor
+    100098: Thumb1_L
+    100100: Thumb1_R
+    100102: Thumb2_L
+    100104: Thumb2_R
+    100106: UpperArm_L
+    100108: UpperArm_R
+    100110: UpperLeftArmArmor
+    100112: UpperLeftLegArmor
+    100114: UpperLeg_L
+    100116: UpperLeg_R
+    100118: UpperRightArmArmor
+    100120: UpperRightLegArmor
+    100122: Wrist_L
+    100124: Wrist_R
+    400000: Armature
+    400002: Chest
+    400004: ChestArmor
+    400006: Finger1_1_L
+    400008: Finger1_1_R
+    400010: Finger1_2_L
+    400012: Finger1_2_R
+    400014: Finger1_3_L
+    400016: Finger1_3_R
+    400018: Finger2_1_L
+    400020: Finger2_1_R
+    400022: Finger2_2_L
+    400024: Finger2_2_R
+    400026: Finger2_3_L
+    400028: Finger2_3_R
+    400030: Finger3_1_L
+    400032: Finger3_1_R
+    400034: Finger3_2_L
+    400036: Finger3_2_R
+    400038: Finger3_3_L
+    400040: Finger3_3_R
+    400042: Finger4_1_L
+    400044: Finger4_1_R
+    400046: Finger4_2_L
+    400048: Finger4_2_R
+    400050: Finger4_3_L
+    400052: Finger4_3_R
+    400054: Foot_L
+    400056: Foot_R
+    400058: GunBone
+    400060: Head
+    400062: Heel_L
+    400064: Heel_R
+    400066: HelmetArmor
+    400068: LowerArm_L
+    400070: LowerArm_R
+    400072: LowerLeftArmArmor
+    400074: LowerLeftLegArmor
+    400076: LowerLeg_L
+    400078: LowerLeg_R
+    400080: LowerRightArmArmor
+    400082: LowerRightLegArmor
+    400084: Neck
+    400086: Pelvis
+    400088: PelvisArmor
+    400090: //RootNode
+    400092: PersonModelObject
+    400094: Stomach
+    400096: StomachArmor
+    400098: Thumb1_L
+    400100: Thumb1_R
+    400102: Thumb2_L
+    400104: Thumb2_R
+    400106: UpperArm_L
+    400108: UpperArm_R
+    400110: UpperLeftArmArmor
+    400112: UpperLeftLegArmor
+    400114: UpperLeg_L
+    400116: UpperLeg_R
+    400118: UpperRightArmArmor
+    400120: UpperRightLegArmor
+    400122: Wrist_L
+    400124: Wrist_R
+    4300000: UpperLeftLegArmor
+    4300002: LowerLeftLegArmor
+    4300004: LowerRightLegArmor
+    4300006: UpperRightLegArmor
+    4300008: PelvisArmor
+    4300010: LowerLeftArmArmor
+    4300012: UpperLeftArmArmor
+    4300014: LowerRightArmArmor
+    4300016: UpperRightArmArmor
+    4300018: StomachArmor
+    4300020: ChestArmor
+    4300022: HelmetArmor
+    4300024: PersonModelObject
+    7400000: Default Take
+    7400002: FireShotGun
+    7400004: HoldingShotGun
+    7400006: HoldingSword
+    7400008: Idle
+    7400010: Idle_001
+    7400012: Idle_002
+    7400014: Idle_003
+    7400016: Jump
+    7400018: ReloadShotGun
+    7400020: Run
+    7400022: StrafeLeft
+    7400024: SwingSword
+    7400026: T-Pos
+    7400028: HoldingProjectileGun
+    7400030: FiringProjectileGun
+    7400032: ReloadProjectileGun
+    9500000: //RootNode
+    13700000: ChestArmor
+    13700002: HelmetArmor
+    13700004: LowerLeftArmArmor
+    13700006: LowerLeftLegArmor
+    13700008: LowerRightArmArmor
+    13700010: LowerRightLegArmor
+    13700012: PelvisArmor
+    13700014: PersonModelObject
+    13700016: StomachArmor
+    13700018: UpperLeftArmArmor
+    13700020: UpperLeftLegArmor
+    13700022: UpperRightArmArmor
+    13700024: UpperRightLegArmor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Finger1_1_L' has translation animation that
+      will be discarded.\n\t'Finger2_1_L' has translation animation that will be discarded.\n\t'Finger3_1_L'
+      has translation animation that will be discarded.\n\t'Finger4_1_L' has translation
+      animation that will be discarded.\n\nClip 'FiringProjectileGun' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Finger3_1_R' has translation animation
+      that will be discarded.\n\t'Finger4_1_R' has translation animation that will
+      be discarded.\n\nClip 'Jump' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'UpperLeg_L' has scale animation that will be discarded.\n\t'LowerLeg_L'
+      has scale animation that will be discarded.\n\t'Heel_L' has scale animation
+      that will be discarded.\n\t'Foot_L' has scale animation that will be discarded.\n\t'LowerLeg_R'
+      has scale animation that will be discarded.\n\t'Heel_R' has scale animation
+      that will be discarded.\n\t'Foot_R' has scale animation that will be discarded.\n\nClip
+      'ReloadProjectileGun' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Finger1_1_L'
+      has translation animation that will be discarded.\n\t'Finger2_1_L' has translation
+      animation that will be discarded.\n\t'Finger3_1_L' has translation animation
+      that will be discarded.\n\t'Finger4_1_L' has translation animation that will
+      be discarded.\n\nClip 'Run' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'UpperLeg_L'
+      has scale animation that will be discarded.\n\t'LowerLeg_L' has scale animation
+      that will be discarded.\n\t'Heel_L' has scale animation that will be discarded.\n\t'Foot_L'
+      has scale animation that will be discarded.\n\t'UpperLeg_R' has scale animation
+      that will be discarded.\n\t'LowerLeg_R' has scale animation that will be discarded.\n\t'Heel_R'
+      has scale animation that will be discarded.\n\t'Foot_R' has scale animation
+      that will be discarded.\n\nClip 'StrafeLeft' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'UpperLeg_L' has scale animation that will be
+      discarded.\n\t'LowerLeg_L' has scale animation that will be discarded.\n\t'Heel_L'
+      has scale animation that will be discarded.\n\t'Foot_L' has scale animation
+      that will be discarded.\n\t'UpperLeg_R' has scale animation that will be discarded.\n\t'LowerLeg_R'
+      has scale animation that will be discarded.\n\t'Heel_R' has scale animation
+      that will be discarded.\n\t'Foot_R' has scale animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FireShotGun
+      takeName: FireShotGun
+      firstFrame: -1
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FiringProjectileGun
+      takeName: FiringProjectileGun
+      firstFrame: -1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HoldingProjectileGun
+      takeName: HoldingProjectileGun
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HoldingShotGun
+      takeName: HoldingShotGun
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HoldingSword
+      takeName: HoldingSword
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReloadProjectileGun
+      takeName: ReloadProjectileGun
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReloadShotGun
+      takeName: ReloadShotGun
+      firstFrame: -1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: -1
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeLeft
+      takeName: StrafeLeft
+      firstFrame: -1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SwingSword
+      takeName: SwingSword
+      firstFrame: -1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T-Pos
+      takeName: T-Pos
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Pelvis
+        weight: 1
+      - path: Armature/Pelvis/Stomach
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger1_1_L/Finger1_2_L/Finger1_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger2_1_L/Finger2_2_L/Finger2_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger3_1_L/Finger3_2_L/Finger3_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Finger4_1_L/Finger4_2_L/Finger4_3_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_L/LowerArm_L/Wrist_L/Thumb1_L/Thumb2_L
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger1_1_R/Finger1_2_R/Finger1_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger2_1_R/Finger2_2_R/Finger2_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger3_1_R/Finger3_2_R/Finger3_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Finger4_1_R/Finger4_2_R/Finger4_3_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/GunBone
+        weight: 0
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R
+        weight: 1
+      - path: Armature/Pelvis/Stomach/Chest/UpperArm_R/LowerArm_R/Wrist_R/Thumb1_R/Thumb2_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_L/LowerLeg_L/Heel_L/Foot_L
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R
+        weight: 1
+      - path: Armature/Pelvis/UpperLeg_R/LowerLeg_R/Heel_R/Foot_R
+        weight: 1
+      - path: PersonModelObject
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.48
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Heel_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Heel_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Stomach
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger1_3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger2_3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger3_3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Finger4_3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: PersonModelInventorV1(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: -0, y: -0.2592, z: 0.000000011329992}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Pelvis
+      position: {x: 0, y: 0.059522033, z: 1.4686358}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: Stomach
+      position: {x: -0.39401868, y: 0.00000002974758, z: -0.0000000035762786}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999995}
+      transformModified: 1
+    - name: Chest
+      position: {x: -0.43463385, y: 0.000000032813936, z: -0.0000000035762786}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Neck
+      position: {x: -0.456116, y: 0.000000034435796, z: -0.0000000035762786}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -0.09185761, y: 0.0000000069350565, z: -0.0000000035762786}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: UpperArm_L
+      position: {x: -0.3012802, y: -0.3939801, z: 0.020085525}
+      rotation: {x: -0.4999999, y: -0.50029325, z: 0.4999999, w: 0.49970675}
+      scale: {x: 0.9999999, y: 1.000001, z: 1.0000012}
+      transformModified: 1
+    - name: LowerArm_L
+      position: {x: -0.52762, y: 0.000000033330288, z: 0.00000002592802}
+      rotation: {x: 0.0003169179, y: 0.00031252205, z: 0.0076164305, w: 0.999971}
+      scale: {x: 1.0000005, y: 1.0000012, z: 1.0000001}
+      transformModified: 1
+    - name: Wrist_L
+      position: {x: -0.4233928, y: 2.7939695e-10, z: 0.000000021904706}
+      rotation: {x: -0.00002424526, y: -0.000018252842, z: 0.1319095, w: 0.9912618}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Thumb1_L
+      position: {x: -0.104822166, y: -0.06833864, z: 0.00000004380941}
+      rotation: {x: -0.00000004879438, y: -0.00000002524211, z: 0.19810034, w: 0.9801818}
+      scale: {x: 0.9999999, y: 1.0000007, z: 1.0000001}
+      transformModified: 1
+    - name: Thumb2_L
+      position: {x: -0.0423443, y: 0.00000011265278, z: 0.000000007152557}
+      rotation: {x: 0.000000017336848, y: -0.00000010769741, z: -0.10729973, w: 0.9942267}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Finger1_1_L
+      position: {x: -0.17935087, y: -0.00045735328, z: 0.000000024139881}
+      rotation: {x: -0.000000012207235, y: -0.000000066471316, z: -0.09501601, w: 0.99547577}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Finger1_2_L
+      position: {x: -0.0416342, y: -0.000000041909516, z: -0.0000000017881392}
+      rotation: {x: -0.000000017377811, y: -0.0000000028132086, z: -0.0031810917,
+        w: 0.99999493}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+      transformModified: 1
+    - name: Finger1_3_L
+      position: {x: -0.038410276, y: 0.000000014193356, z: 0.00000002682209}
+      rotation: {x: 0.0000000034364405, y: -0.000000010890955, z: -0.028236816, w: 0.99960124}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: Finger2_1_L
+      position: {x: -0.16782609, y: 0.051198103, z: 0.00000003308058}
+      rotation: {x: 0.000000037873168, y: -0.00000006591834, z: -0.111927345, w: 0.9937165}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1.0000001}
+      transformModified: 1
+    - name: Finger2_2_L
+      position: {x: -0.04792067, y: -0.0000000346452, z: -0.0000000080466265}
+      rotation: {x: -0.00000005752577, y: 0.000000047472827, z: -0.0027695217, w: 0.9999962}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000002}
+      transformModified: 1
+    - name: Finger2_3_L
+      position: {x: -0.042583957, y: 0.00000005370006, z: 0.000000034868716}
+      rotation: {x: -0.0000000083909635, y: -0.00000006299665, z: -0.005381919, w: 0.9999856}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Finger3_1_L
+      position: {x: -0.15173891, y: 0.10525503, z: 0.000000058114527}
+      rotation: {x: 0.000000036598053, y: -0.00000006132357, z: -0.1203973, w: 0.9927258}
+      scale: {x: 0.9999996, y: 0.99999964, z: 1.0000001}
+      transformModified: 1
+    - name: Finger3_2_L
+      position: {x: -0.04149808, y: 0.000000026905909, z: -0.000000016093253}
+      rotation: {x: -0.000000059521355, y: -0.000000002131841, z: -0.026679913, w: 0.9996441}
+      scale: {x: 1.0000007, y: 1.0000013, z: 1.0000006}
+      transformModified: 1
+    - name: Finger3_3_L
+      position: {x: -0.03562346, y: 0.0000000067055224, z: 0.000000014305114}
+      rotation: {x: 0.00000006000776, y: -0.00000005747083, z: 0.026679823, w: 0.9996441}
+      scale: {x: 1.0000008, y: 1.0000012, z: 1.0000005}
+      transformModified: 1
+    - name: Finger4_1_L
+      position: {x: -0.128024, y: 0.1435081, z: 0.000000045597552}
+      rotation: {x: -0.000000012814778, y: -0.000000032643577, z: -0.2219947, w: 0.9750479}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: Finger4_2_L
+      position: {x: -0.03181363, y: 0, z: 0.000000024363398}
+      rotation: {x: 0.00000007283507, y: 0.0000022653446, z: 0.04030538, w: 0.99918747}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000004}
+      transformModified: 1
+    - name: Finger4_3_L
+      position: {x: -0.0303219, y: -0.0000000042468304, z: -0.000000027269124}
+      rotation: {x: 0.000000007950614, y: -0.000000013694624, z: 0.026791578, w: 0.99964106}
+      scale: {x: 1.0000008, y: 1.0000013, z: 1.0000004}
+      transformModified: 1
+    - name: UpperArm_R
+      position: {x: -0.30128017, y: 0.39398015, z: 0.020085497}
+      rotation: {x: -0.49999988, y: 0.50029325, z: 0.49999988, w: -0.49970677}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000011}
+      transformModified: 1
+    - name: LowerArm_R
+      position: {x: -0.52761984, y: 0.00000003587389, z: 0.000000022817984}
+      rotation: {x: -0.00031453368, y: 0.0003145933, z: -0.000000104308114, w: 0.9999999}
+      scale: {x: 0.9999994, y: 1.0000017, z: 1.0000005}
+      transformModified: 1
+    - name: Wrist_R
+      position: {x: -0.42335996, y: 0.0000000026542692, z: -0.000000019222497}
+      rotation: {x: 0.000025138288, y: -0.00001666299, z: -0.20006362, w: 0.979783}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000007}
+      transformModified: 1
+    - name: Thumb1_R
+      position: {x: -0.11524843, y: 0.061312936, z: -0.000000045374033}
+      rotation: {x: 0.000000029593135, y: -0.0000000016007105, z: -0.1374716, w: 0.9905057}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: Thumb2_R
+      position: {x: -0.04234435, y: 0.000000042021274, z: 0.000000024139881}
+      rotation: {x: 0.000000004657172, y: -0.000000021404345, z: 0.10730019, w: 0.99422675}
+      scale: {x: 1.0000004, y: 0.9999994, z: 1.0000004}
+      transformModified: 1
+    - name: Finger1_1_R
+      position: {x: -0.18088396, y: -0.015200951, z: -0.00000002771616}
+      rotation: {x: 0.000000032821838, y: 0.00000002504566, z: 0.1560308, w: 0.98775226}
+      scale: {x: 1.0000007, y: 0.9999997, z: 1.0000002}
+      transformModified: 1
+    - name: Finger1_2_R
+      position: {x: -0.041634228, y: 0.000000055879354, z: 0.0000000011175868}
+      rotation: {x: 0.0000000017514661, y: 0.000000011480615, z: 0.0031811737, w: 0.99999493}
+      scale: {x: 0.99999994, y: 1.0000004, z: 0.9999999}
+      transformModified: 1
+    - name: Finger1_3_R
+      position: {x: -0.038410306, y: 0.00000006984919, z: -0.000000007152557}
+      rotation: {x: -0.000000006748856, y: 0.000000049086164, z: 0.028236808, w: 0.9996013}
+      scale: {x: 0.99999964, y: 0.99999964, z: 0.9999999}
+      transformModified: 1
+    - name: Finger2_1_R
+      position: {x: -0.16310744, y: -0.06505182, z: -0.00000003889203}
+      rotation: {x: 0.00000003081367, y: 0.00000001721491, z: 0.17280155, w: 0.9849566}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1.0000005}
+      transformModified: 1
+    - name: Finger2_2_R
+      position: {x: -0.047920838, y: -0.00000006236136, z: -0.000000010728836}
+      rotation: {x: 2.3750243e-10, y: -0.000000043634756, z: 0.0027702746, w: 0.9999962}
+      scale: {x: 1.0000006, y: 0.99999994, z: 1.0000007}
+      transformModified: 1
+    - name: Finger2_3_R
+      position: {x: -0.04258378, y: -0.00000003777444, z: 0.000000032633544}
+      rotation: {x: 0.000000021154957, y: 0.000000041760597, z: 0.0053819283, w: 0.9999856}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: Finger3_1_R
+      position: {x: -0.14050841, y: -0.11672601, z: -0.0000000024586915}
+      rotation: {x: 0.00000003233253, y: 0.000000021762384, z: 0.18119512, w: 0.9834472}
+      scale: {x: 1.000001, y: 0.9999995, z: 1.0000005}
+      transformModified: 1
+    - name: Finger3_2_R
+      position: {x: -0.041498177, y: 0.000000031348318, z: 0.000000008270145}
+      rotation: {x: -0.000000014954976, y: -0.0000000016124752, z: 0.026679927, w: 0.9996441}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: Finger3_3_R
+      position: {x: -0.035623338, y: 0.000000023937318, z: -0.000000008493662}
+      rotation: {x: 5.612042e-11, y: 0.000000016518424, z: -0.026679555, w: 0.9996441}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: Finger4_1_R
+      position: {x: -0.11227857, y: -0.15177989, z: -0.000000024586916}
+      rotation: {x: 0.000000008272762, y: 0.000000031137454, z: 0.2688942, w: 0.9631697}
+      scale: {x: 1.0000007, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: Finger4_2_R
+      position: {x: -0.031813644, y: -0.0000000080466265, z: 4.4703505e-10}
+      rotation: {x: 0.000000009876659, y: 0.000000030083733, z: -0.040303405, w: 0.99918747}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Finger4_3_R
+      position: {x: -0.030321887, y: 0.0000000025285405, z: 0.000000010952353}
+      rotation: {x: -0.000000024527742, y: -0.000000073715235, z: -0.026792103, w: 0.9996411}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1.0000004}
+      transformModified: 1
+    - name: GunBone
+      position: {x: -0.050089683, y: 0.000000042468308, z: -0.00000006079674}
+      rotation: {x: -0.69281113, y: -0.14146629, z: -0.6928111, w: 0.14146641}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000011}
+      transformModified: 1
+    - name: UpperLeg_L
+      position: {x: -0.07189997, y: -0.2087776, z: 0.015930776}
+      rotation: {x: -0.0000078976145, y: 0.9999496, z: -0.00000018952412, w: 0.01004568}
+      scale: {x: 0.9999839, y: 1.0000001, z: 1.0001005}
+      transformModified: 1
+    - name: LowerLeg_L
+      position: {x: -0.5484313, y: 0.000000028945506, z: 0.000000018775463}
+      rotation: {x: 0.000000046109296, y: -0.018649828, z: -0.000007982979, w: -0.9998261}
+      scale: {x: 1.0000098, y: 1.0000004, z: 1.000014}
+      transformModified: 1
+    - name: Heel_L
+      position: {x: -0.64024377, y: 0.000000023022293, z: 0}
+      rotation: {x: 0.81211525, y: 0.00000056105887, z: 0.5834971, w: -0.00000048734427}
+      scale: {x: 0.9999935, y: 1.0000006, z: 0.9999936}
+      transformModified: 1
+    - name: Foot_L
+      position: {x: -0.16567084, y: 0.000000012069941, z: 0.00000009723007}
+      rotation: {x: 0.0000019259755, y: 0.1393111, z: -0.0000004104576, w: 0.9902487}
+      scale: {x: 0.99997246, y: 1.0000004, z: 1.0000281}
+      transformModified: 1
+    - name: UpperLeg_R
+      position: {x: -0.07189994, y: 0.20877762, z: 0.015930776}
+      rotation: {x: 0.000007957219, y: 0.9999496, z: -0, w: 0.010045659}
+      scale: {x: 1.0000575, y: 1.0000004, z: 1.0001112}
+      transformModified: 1
+    - name: LowerLeg_R
+      position: {x: -0.5484312, y: 0.00000002458124, z: -0.0000000015716068}
+      rotation: {x: -0.00000011114425, y: -0.018649848, z: 0.00000792755, w: -0.9998261}
+      scale: {x: 0.999892, y: 1.0000002, z: 0.9999859}
+      transformModified: 1
+    - name: Heel_R
+      position: {x: -0.64024353, y: 0.000000039786098, z: 0.000000050263477}
+      rotation: {x: 0.8121154, y: -0.000000089069445, z: 0.583497, w: 0.000000021234923}
+      scale: {x: 1.0000135, y: 1, z: 1.0000106}
+      transformModified: 1
+    - name: Foot_R
+      position: {x: -0.1656694, y: 0.0000000095274295, z: -0.000000038178257}
+      rotation: {x: -0.0000018337896, y: 0.13931116, z: 0.00000008817964, w: 0.99024874}
+      scale: {x: 0.9999526, y: 0.9999999, z: 1.0000472}
+      transformModified: 1
+    - name: PersonModelObject
+      position: {x: -0, y: 0.000000028610229, z: 9.599999e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

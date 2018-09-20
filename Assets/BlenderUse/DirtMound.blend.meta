@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 588eadcfde008d249b5f5dd00fdaf828
+timeCreated: 1457978784
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DirtMoundCollider
+    100004: DirtMoundPlane
+    100006: Armature
+    100008: B0
+    100010: B1
+    100012: B10
+    100014: B11
+    100016: B12
+    100018: B13
+    100020: B14
+    100022: B15
+    100024: B16
+    100026: B17
+    100028: B18
+    100030: B19
+    100032: B2
+    100034: B20
+    100036: B21
+    100038: B22
+    100040: B23
+    100042: B24
+    100044: B3
+    100046: B4
+    100048: B5
+    100050: B6
+    100052: B7
+    100054: B8
+    100056: B9
+    100058: EarthMoundCollider
+    400000: //RootNode
+    400002: DirtMoundCollider
+    400004: DirtMoundPlane
+    400006: Armature
+    400008: B0
+    400010: B1
+    400012: B10
+    400014: B11
+    400016: B12
+    400018: B13
+    400020: B14
+    400022: B15
+    400024: B16
+    400026: B17
+    400028: B18
+    400030: B19
+    400032: B2
+    400034: B20
+    400036: B21
+    400038: B22
+    400040: B23
+    400042: B24
+    400044: B3
+    400046: B4
+    400048: B5
+    400050: B6
+    400052: B7
+    400054: B8
+    400056: B9
+    400058: EarthMoundCollider
+    2300000: //RootNode
+    2300002: DirtMoundCollider
+    2300004: DirtMoundPlane
+    2300006: EarthMoundCollider
+    3300000: //RootNode
+    3300002: DirtMoundCollider
+    3300004: DirtMoundPlane
+    3300006: EarthMoundCollider
+    4300000: Plane
+    4300002: DirtMoundPlane
+    4300004: DirtMoundCollider
+    4300006: EarthMoundCollider
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: DirtMoundPlane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

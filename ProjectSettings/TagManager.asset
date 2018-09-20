@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ignore
+  - Mirror
+  - Fire
+  - PlayerBlue
+  - PlayerRed
+  - PhaseThrough
+  - Head
+  - Torso
+  - Shield
+  - ShieldParent
+  - Ray
+  - MainGround
+  - IgnoreGround
+  - Limb
+  - Icicle
+  - CapturePoint
+  - MirrorEdge
+  - DamageBoxBlue
+  - DamageBoxRed
+  - SawBlade
+  - Invalid
+  - Valid
+  - SelectTrapZone
+  - RocketBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayersBlue
+  - Decor
+  - PlayerMadeBlue
+  - MirrorSeeOnly
+  - Viewmodel
+  - Ragdoll
+  - DecorCollide
+  - PlayerMadeRed
+  - HitBoxBlue
+  - HitBoxRed
+  - Placement
+  - AntiPlacement
+  - BulletsBlue
+  - BulletsRed
+  - PlayersRed
+  - SpawnRoomBlue
+  - SpawnRoomRed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

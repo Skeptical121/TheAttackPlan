@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b3532edf35cdbfa458ba968cbd2c4e4f
+timeCreated: 1486016563
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - parentPlayerMove: {instanceID: 0}
+  - hudElement: {instanceID: 0}
+  - unlockObject: {fileID: 1000011632092604, guid: 8eb974f6e132c7c4887bd4db8a8e09a6,
+      type: 2}
+  - viewmodelUnlockObject: {instanceID: 0}
+  - fireEffect: {instanceID: 0}
+  - fakeRenderBulletPrefab: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  - soundEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

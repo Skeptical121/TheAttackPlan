@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0685462fddcb154c8529db592de9c7b
+timeCreated: 1457673193
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {fileID: 178450, guid: 8f243b820a74e054dbc6f55b665aa6bc, type: 2}
+  - laser: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

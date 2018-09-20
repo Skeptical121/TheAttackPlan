@@ -1,0 +1,375 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.076046 ms
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.dll (this message is harmless)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1d8 -> priority: 1 
+  Thread -> id: 1180 -> priority: 1 
+  Thread -> id: 27e8 -> priority: 1 
+  Thread -> id: 1a84 -> priority: 1 
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.343898 ms
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 960 -> priority: 1 
+  Thread -> id: 274c -> priority: 1 
+  Thread -> id: 33c0 -> priority: 1 
+  Thread -> id: 2ed8 -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 2.625577 ms
+Server started on port26800 with id of 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 26f4 -> priority: 1 
+  Thread -> id: 95c -> priority: 1 
+  Thread -> id: 804 -> priority: 1 
+  Thread -> id: 1d28 -> priority: 1 
+Connected initial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We have connected! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+incoming connection event received with connectionId: 1, recHostId: 0, recChannelId: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 251
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 252
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 253
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 254
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 255
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 256
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 257
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected initial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We have connected! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+incoming connection event received with connectionId: 2, recHostId: 0, recChannelId: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 349
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 350
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 351
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 352
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 353
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 354
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 355
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:54613} time {70714}, last rec time {68707} rtt {11} timeout {2000}
+Attempt to send to not connected connection {1}
+ 
+(Filename:  Line: 362)
+
+Error: WrongConnection, hostId: 0, connectionId: 1, channelId: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error recieving event: Timeout with recHostId: 0, recConnectionId: 1, recChannelId: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+remote client 1 disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aidy121\Documents\TheAttackPlanGame\TheAttackPlan_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.356540 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 22cc -> priority: 1 
+  Thread -> id: 160c -> priority: 1 
+  Thread -> id: 2aa0 -> priority: 1 
+  Thread -> id: 3460 -> priority: 1 
+Connected initial
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We have connected! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+incoming connection event received with connectionId: 1, recHostId: 0, recChannelId: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3690
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3691
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3692
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3693
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3694
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3695
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Full resend received: 3696
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Resetting Static Variables
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Will Reload Scene Now.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMove.PlayerMoveRun () [0x00000] in <filename unknown>:0 
+  at SyncPlayer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.975001 ms
+
+Unloading 2184 unused Assets to reduce memory usage. Loaded Objects now: 5038.
+Total: 5.932634 ms (FindLiveObjects: 0.434962 ms CreateObjectMapping: 0.377678 ms MarkObjects: 2.056293 ms  DeleteObjects: 3.048687 ms)
+
+Disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Resetting Static Variables
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Will Reload Scene Now.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMove.PlayerMoveRun () [0x00000] in <filename unknown>:0 
+  at SyncPlayer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.530752 ms
+
+Unloading 4125 unused Assets to reduce memory usage. Loaded Objects now: 5038.
+Total: 13.456971 ms (FindLiveObjects: 0.539258 ms CreateObjectMapping: 0.891258 ms MarkObjects: 2.162960 ms  DeleteObjects: 9.862309 ms)
+
+Disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:63504} time {208156}, last rec time {205651} rtt {11} timeout {2000}
+Attempt to send to not connected connection {1}
+ 
+(Filename:  Line: 362)
+
+Error: WrongConnection, hostId: 0, connectionId: 1, channelId: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error recieving event: Timeout with recHostId: 0, recConnectionId: 1, recChannelId: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+remote client 1 disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {2} has been disconnected by timeout; address {::ffff:127.0.0.1:54615} time {208457}, last rec time {206443} rtt {1} timeout {2000}
+Attempt to send to not connected connection {2}
+ 
+(Filename:  Line: 362)
+
+Error: WrongConnection, hostId: 0, connectionId: 2, channelId: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error recieving event: Timeout with recHostId: 0, recConnectionId: 2, recChannelId: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+remote client 2 disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000014246450174}
+  m_IsPrefabParent: 1
+--- !u!1 &1000014246450174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000012575937390}
+  - component: {fileID: 114000012069336752}
+  - component: {fileID: 114000011126008914}
+  m_Layer: 0
+  m_Name: PlayerSync
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000012575937390
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014246450174}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 28.242283, y: -31.444626, z: -61.232464}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000011126008914
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014246450174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad922a14684fc6747894a238ca2edca6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114000012069336752
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014246450174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4663f2bf1bf696e499a837990847a98d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectID: 0
+  objectType: 39
+  exists: 1
+  playerOwner: 0
+  tickSpawnedAt: 0
+  didFirstInterp: 0
+  playerObjects:
+  - {fileID: 166792, guid: e64f60118e51d1c4eb4eb0e21da59f74, type: 2}
+  - {fileID: 166792, guid: 85e8be16518a7ac43af07a3c7c472c58, type: 2}
+  - {fileID: 1000010327436278, guid: 0a5f4d2c1b9e04247a0f647fffc00469, type: 2}
+  - {fileID: 166792, guid: f2f32bf961c6c2541989edcd124e29a4, type: 2}
+  - {fileID: 1000010327436278, guid: 7e4e4c8fe1192d74ca8f2399d0fdce7d, type: 2}
+  - {fileID: 151928, guid: 84f56148aa555164a9f8499f4f22e09b, type: 2}
+  - {fileID: 151928, guid: 8333131bc702bbb4d99c529925755c8c, type: 2}
+  - {fileID: 151928, guid: 72a1c8ab19b80664b89d1da93ca3343b, type: 2}
+  - {fileID: 151928, guid: 8f22deca6345bd346b710cc0663a654d, type: 2}
+  - {fileID: 151928, guid: a5012be282d7b954cb0f151b5e013f33, type: 2}
+  facadePlayerObjects:
+  - {fileID: 1149676431479052, guid: 1a7fdc79cd14c3d449a4292fa7a4042c, type: 2}
+  - {fileID: 1517789025531952, guid: 62c7150eb780edb4ba494a02c6aed494, type: 2}
+  playerName: n/a
+  team: 0
+  classNum: 0
+  killedByPlayer: 3
+  kills: 0
+  deaths: 0
+  playerCamera: {fileID: 0}
+  playerObject: {fileID: 0}
+  arrowLauncher: {fileID: 0}
+  arrowTrigger: {fileID: 0}
+  myRandomTrapChoices: ffffffffffff
+  trapTypes: ffff
+  trapCoolDownsStartedAt:
+  - -1
+  - -1
+  resetTrapCoolDownsTo:
+  - -10000
+  - -10000
+  serverPlayerTimeSave: 0
+  timeSavedAt: 0

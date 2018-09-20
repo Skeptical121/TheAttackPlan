@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Chest
+  m_Mask: 00000000010000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ArmatureBlue
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone/LeftLegTopBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone/LeftLegTopBone/LeftLegBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone/LeftLegTopBone/LeftLegBone/LegBone_001
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone_001
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone_001/RightLegTopBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone_001/RightLegTopBone/RightLegBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/Bone_001/RightLegTopBone/RightLegBone/RightLegBone_001
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/HeadBone
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/LeftBone1
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/LeftBone1/LeftBone2
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/LeftBone1/LeftBone2/LeftBone3
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/LeftBone1/LeftBone2/LeftBone3/LeftBone3_001
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/RightBone1
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/RightBone1/RightBone2
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/RightBone1/RightBone2/RightBone3
+    m_Weight: 1
+  - m_Path: ArmatureBlue/MainBone/MainBone_001/TorsoBone/TorsoBone_001/RightBone1/RightBone2/RightBone3/RightBone3_001
+    m_Weight: 1
+  - m_Path: Cube_051
+    m_Weight: 1

@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 95b5e7121863b8d40af55977ebd7558f
+timeCreated: 1457224836
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PlacementHit
+    100004: Rail
+    100006: PlacementHit_001
+    100008: PlacementHit_002
+    100010: FullPlacementHit
+    100012: Construction
+    100014: ConstructArm
+    100016: LeftBase
+    100018: LeftBase_001
+    100020: RightBase
+    100022: RightBase_001
+    100024: RightBase_002
+    100026: RightBase_003
+    100028: RightBase_004
+    100030: RightBase_005
+    100032: RightBase_006
+    100034: RightBase_007
+    100036: RightBase_009
+    400000: //RootNode
+    400002: PlacementHit
+    400004: Rail
+    400006: PlacementHit_001
+    400008: PlacementHit_002
+    400010: FullPlacementHit
+    400012: Construction
+    400014: ConstructArm
+    400016: LeftBase
+    400018: LeftBase_001
+    400020: RightBase
+    400022: RightBase_001
+    400024: RightBase_002
+    400026: RightBase_003
+    400028: RightBase_004
+    400030: RightBase_005
+    400032: RightBase_006
+    400034: RightBase_007
+    400036: RightBase_009
+    2300000: //RootNode
+    2300002: PlacementHit
+    2300004: Rail
+    2300006: PlacementHit_001
+    2300008: PlacementHit_002
+    2300010: FullPlacementHit
+    2300012: Construction
+    3300000: //RootNode
+    3300002: PlacementHit
+    3300004: Rail
+    3300006: PlacementHit_001
+    3300008: PlacementHit_002
+    3300010: FullPlacementHit
+    3300012: Construction
+    4300000: Cube
+    4300002: Rail
+    4300004: PlacementHit
+    4300006: PlacementHit_002
+    4300008: PlacementHit_001
+    4300010: FullPlacementHit
+    4300012: Construction
+    7400000: Default Take
+    7400002: ConstructArmAction
+    9500000: //RootNode
+    13700000: Construction
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ConstructArm
+        weight: 1
+      - path: ConstructArm/LeftBase
+        weight: 1
+      - path: ConstructArm/LeftBase/LeftBase_001
+        weight: 1
+      - path: ConstructArm/RightBase
+        weight: 1
+      - path: ConstructArm/RightBase/RightBase_001
+        weight: 1
+      - path: ConstructArm/RightBase_002
+        weight: 1
+      - path: ConstructArm/RightBase_002/RightBase_004
+        weight: 1
+      - path: ConstructArm/RightBase_002/RightBase_004/RightBase_006
+        weight: 1
+      - path: ConstructArm/RightBase_003
+        weight: 1
+      - path: ConstructArm/RightBase_003/RightBase_005
+        weight: 1
+      - path: ConstructArm/RightBase_003/RightBase_005/RightBase_007
+        weight: 1
+      - path: ConstructArm/RightBase_003/RightBase_005/RightBase_007/RightBase_009
+        weight: 1
+      - path: Construction
+        weight: 1
+      - path: PlacementHit
+        weight: 1
+      - path: PlacementHit_001
+        weight: 1
+      - path: PlacementHit_002
+        weight: 1
+      - path: Rail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ConstructArmAction
+      takeName: ConstructArmAction
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ConstructArm
+        weight: 1
+      - path: ConstructArm/LeftBase
+        weight: 1
+      - path: ConstructArm/LeftBase/LeftBase_001
+        weight: 1
+      - path: ConstructArm/RightBase
+        weight: 1
+      - path: ConstructArm/RightBase/RightBase_001
+        weight: 1
+      - path: ConstructArm/RightBase_002
+        weight: 1
+      - path: ConstructArm/RightBase_002/RightBase_004
+        weight: 1
+      - path: ConstructArm/RightBase_002/RightBase_004/RightBase_006
+        weight: 1
+      - path: ConstructArm/RightBase_003
+        weight: 1
+      - path: ConstructArm/RightBase_003/RightBase_005
+        weight: 1
+      - path: ConstructArm/RightBase_003/RightBase_005/RightBase_007
+        weight: 1
+      - path: ConstructArm/RightBase_003/RightBase_005/RightBase_007/RightBase_009
+        weight: 1
+      - path: Construction
+        weight: 1
+      - path: PlacementHit
+        weight: 1
+      - path: PlacementHit_001
+        weight: 1
+      - path: PlacementHit_002
+        weight: 1
+      - path: Rail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
